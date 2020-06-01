@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CapaPresentacion/1.0.0": {
+        "dependencies": {
+          "CapaLogicaNegociosPizzza": "1.0.0"
+        },
+        "runtime": {
+          "CapaPresentacion.dll": {}
+        }
+      },
+      "CapaDatosPizzza/1.0.0": {
+        "runtime": {
+          "CapaDatosPizzza.dll": {}
+        }
+      },
+      "CapaLogicaNegociosPizzza/1.0.0": {
+        "dependencies": {
+          "CapaDatosPizzza": "1.0.0",
+          "Comun": "1.0.0"
+        },
+        "runtime": {
+          "CapaLogicaNegociosPizzza.dll": {}
+        }
+      },
+      "Comun/1.0.0": {
+        "runtime": {
+          "Comun.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CapaPresentacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaDatosPizzza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaLogicaNegociosPizzza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Comun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

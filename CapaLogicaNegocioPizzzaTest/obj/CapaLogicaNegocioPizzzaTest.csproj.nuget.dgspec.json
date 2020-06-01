@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegocioPizzzaTest\\CapaLogicaNegocioPizzzaTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaDatosPizzza\\CapaDatosPizzza.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaDatosPizzza\\CapaDatosPizzza.csproj",
+        "projectName": "CapaDatosPizzza",
+        "projectPath": "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaDatosPizzza\\CapaDatosPizzza.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegocioPizzzaTest\\CapaLogicaNegocioPizzzaTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegocioPizzzaTest\\CapaLogicaNegocioPizzzaTest.csproj",
+        "projectName": "CapaLogicaNegocioPizzzaTest",
+        "projectPath": "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegocioPizzzaTest\\CapaLogicaNegocioPizzzaTest.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegocioPizzzaTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegociosPizzza\\CapaLogicaNegociosPizzza.csproj": {
+                "projectPath": "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegociosPizzza\\CapaLogicaNegociosPizzza.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegociosPizzza\\CapaLogicaNegociosPizzza.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegociosPizzza\\CapaLogicaNegociosPizzza.csproj",
+        "projectName": "CapaLogicaNegociosPizzza",
+        "projectPath": "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegociosPizzza\\CapaLogicaNegociosPizzza.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaDatosPizzza\\CapaDatosPizzza.csproj": {
+                "projectPath": "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\CapaDatosPizzza\\CapaDatosPizzza.csproj"
+              },
+              "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\Comunes\\Comunes.csproj": {
+                "projectPath": "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\Comunes\\Comunes.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\Comunes\\Comunes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\Comunes\\Comunes.csproj",
+        "projectName": "Comunes",
+        "projectPath": "C:\\Users\\andre\\Desktop\\Software 2\\Nuevo Consola\\AplicacionPizzza\\Comunes\\Comunes.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

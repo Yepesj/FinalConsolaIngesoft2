@@ -1,0 +1,18 @@
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\Comun\bin\Debug\netstandard2.0\Comun.deps.json
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\Comun\bin\Debug\netstandard2.0\Comun.dll
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\Comun\bin\Debug\netstandard2.0\Comun.pdb
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\Comun\obj\Debug\netstandard2.0\Comun.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\Comun\obj\Debug\netstandard2.0\Comun.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\Comun\obj\Debug\netstandard2.0\Comun.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\Comun\obj\Debug\netstandard2.0\Comun.AssemblyInfo.cs
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\Comun\obj\Debug\netstandard2.0\Comun.dll
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\Comun\obj\Debug\netstandard2.0\Comun.pdb
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\Comun\bin\Debug\netstandard2.0\Comun.deps.json
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\Comun\bin\Debug\netstandard2.0\Comun.dll
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\Comun\bin\Debug\netstandard2.0\Comun.pdb
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\Comun\obj\Debug\netstandard2.0\Comun.csprojAssemblyReference.cache
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\Comun\obj\Debug\netstandard2.0\Comun.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\Comun\obj\Debug\netstandard2.0\Comun.AssemblyInfoInputs.cache
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\Comun\obj\Debug\netstandard2.0\Comun.AssemblyInfo.cs
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\Comun\obj\Debug\netstandard2.0\Comun.dll
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\Comun\obj\Debug\netstandard2.0\Comun.pdb

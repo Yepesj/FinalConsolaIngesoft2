@@ -1,0 +1,40 @@
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.exe
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.deps.json
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.runtimeconfig.json
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.runtimeconfig.dev.json
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.dll
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.pdb
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaDatosPizzza.dll
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaLogicaNegociosPizzza.dll
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\Comun.dll
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaLogicaNegociosPizzza.pdb
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaDatosPizzza.pdb
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\Comun.pdb
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.AssemblyInfo.cs
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.csproj.CopyComplete
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.dll
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.pdb
+C:\Users\andre\Desktop\Software 2\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.exe
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.deps.json
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.runtimeconfig.json
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.runtimeconfig.dev.json
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.dll
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.pdb
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaDatosPizzza.dll
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaLogicaNegociosPizzza.dll
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\Comun.dll
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaLogicaNegociosPizzza.pdb
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaDatosPizzza.pdb
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\bin\Debug\netcoreapp3.1\Comun.pdb
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.dll
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.pdb
+C:\Users\Sebastián\Downloads\Nuevo Consola\AplicacionPizzza\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.genruntimeconfig.cache

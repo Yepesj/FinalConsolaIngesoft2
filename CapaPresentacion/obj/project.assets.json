@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CapaDatosPizzza/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CapaDatosPizzza.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CapaDatosPizzza.dll": {}
+        }
+      },
+      "CapaLogicaNegociosPizzza/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "CapaDatosPizzza": "1.0.0",
+          "Comun": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CapaLogicaNegociosPizzza.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CapaLogicaNegociosPizzza.dll": {}
+        }
+      },
+      "Comun/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Comun.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Comun.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CapaDatosPizzza/1.0.0": {
+      "type": "project",
+      "path": "../CapaDatosPizzza/CapaDatosPizzza.csproj",
+      "msbuildProject": "../CapaDatosPizzza/CapaDatosPizzza.csproj"
+    },
+    "CapaLogicaNegociosPizzza/1.0.0": {
+      "type": "project",
+      "path": "../CapaLogicaNegociosPizzza/CapaLogicaNegociosPizzza.csproj",
+      "msbuildProject": "../CapaLogicaNegociosPizzza/CapaLogicaNegociosPizzza.csproj"
+    },
+    "Comun/1.0.0": {
+      "type": "project",
+      "path": "../Comun/Comun.csproj",
+      "msbuildProject": "../Comun/Comun.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CapaLogicaNegociosPizzza >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Sebastián\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaPresentacion\\CapaPresentacion.csproj",
+      "projectName": "CapaPresentacion",
+      "projectPath": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaPresentacion\\CapaPresentacion.csproj",
+      "packagesPath": "C:\\Users\\Sebastián\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaPresentacion\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Sebastián\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegociosPizzza\\CapaLogicaNegociosPizzza.csproj": {
+              "projectPath": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegociosPizzza\\CapaLogicaNegociosPizzza.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {}
+    }
+  }
+}

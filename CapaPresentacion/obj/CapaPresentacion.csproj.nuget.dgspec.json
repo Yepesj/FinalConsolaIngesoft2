@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaPresentacion\\CapaPresentacion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaDatosPizzza\\CapaDatosPizzza.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaDatosPizzza\\CapaDatosPizzza.csproj",
+        "projectName": "CapaDatosPizzza",
+        "projectPath": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaDatosPizzza\\CapaDatosPizzza.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegociosPizzza\\CapaLogicaNegociosPizzza.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegociosPizzza\\CapaLogicaNegociosPizzza.csproj",
+        "projectName": "CapaLogicaNegociosPizzza",
+        "projectPath": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegociosPizzza\\CapaLogicaNegociosPizzza.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaDatosPizzza\\CapaDatosPizzza.csproj": {
+                "projectPath": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaDatosPizzza\\CapaDatosPizzza.csproj"
+              },
+              "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\Comun\\Comun.csproj": {
+                "projectPath": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\Comun\\Comun.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaPresentacion\\CapaPresentacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaPresentacion\\CapaPresentacion.csproj",
+        "projectName": "CapaPresentacion",
+        "projectPath": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaPresentacion\\CapaPresentacion.csproj",
+        "packagesPath": "C:\\Users\\Sebastián\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaPresentacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sebastián\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegociosPizzza\\CapaLogicaNegociosPizzza.csproj": {
+                "projectPath": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\CapaLogicaNegociosPizzza\\CapaLogicaNegociosPizzza.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\Comun\\Comun.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\Comun\\Comun.csproj",
+        "projectName": "Comun",
+        "projectPath": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\Comun\\Comun.csproj",
+        "packagesPath": "C:\\Users\\Sebastián\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sebastián\\Downloads\\Nuevo Consola\\AplicacionPizzza\\Comun\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sebastián\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
